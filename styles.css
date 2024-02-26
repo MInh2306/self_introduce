@@ -1,0 +1,19 @@
+/* whole page */
+.img-fluid {
+    margin-top: 50px;
+    height: 50%;
+}
+
+.container {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.logo-resize {
+    height: 14%;
+    width: 42%;
+    margin-bottom: 15px;
+}
+.title{
+    margin-top: 50px;
+}
